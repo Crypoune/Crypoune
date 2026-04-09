@@ -10,6 +10,13 @@
   <img src="https://komarev.com/ghpvc/?username=Crypoune&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Age-37-blue" />
+  <img src="https://img.shields.io/badge/Focus-Fullstack-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-France-success" />
+  <img src="https://img.shields.io/badge/Languages-French%20%26%20English-brightgreen" />
+</p>
+
 ---
 
 ### 🚀 About me

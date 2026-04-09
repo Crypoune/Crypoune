@@ -1,4 +1,4 @@
-<h1 align="center">Hello there 👋, I'm Arnaud</h1>
+<h1 align="center">Hello there <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Arnaud</h1>
 
 <p align="center">
   <img alt="Hello There" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDdzMXgycWdoeHEzdGNyNnBoZ2UwdWdyNzV5dmxtc203c240MmtnMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="400"/>

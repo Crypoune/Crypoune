@@ -14,7 +14,7 @@
 - 🌱 Currently improving my skills in **JavaScript & modern frontend**
 - ⚡ I enjoy connecting **frontend ↔ backend**
 - 💼 [LinkedIn](https://www.linkedin.com/in/arnaud-messenet)
-- 📫 Contact: **arnaud.messenet@gmail.com**
+- 📫 [Contact] (arnaud.messenet@gmail.com)
 
 ---
 

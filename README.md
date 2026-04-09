@@ -13,8 +13,8 @@
 - 🧠 I also have a solid foundation in **backend & APIs**
 - 🌱 Currently improving my skills in **JavaScript & modern frontend**
 - ⚡ I enjoy connecting **frontend ↔ backend**
+- 📫 Contact **arnaud.messenet@gmail.com**
 - 💼 [LinkedIn](https://www.linkedin.com/in/arnaud-messenet)
-- 📫 [Contact] (arnaud.messenet@gmail.com)
 
 ---
 

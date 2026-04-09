@@ -1,8 +1,8 @@
 <h1 align="center">Hi there 👋, I'm Arnaud</h1>
-<h3 align="center">Frontend enthusiast with a backend foundation</h3>
+<h3 align="center">Student dev, frontend enthusiast with backend skills</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Crypoune&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Crypoune&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -10,34 +10,39 @@
 ### 🚀 About me
 
 - 🎨 I love building **clean and interactive user interfaces**
-- 🧠 I also have a solid foundation in **backend & APIs**
-- 🌱 Currently improving my skills in **JavaScript & modern frontend**
+- 🧠 I have a solid foundation in **backend & APIs**
+- 🌱 Currently improving my skills in **JavaScript & frontend frameworks**
 - ⚡ I enjoy connecting **frontend ↔ backend**
-- 📫 Contact **arnaud.messenet@gmail.com**
-- 💼 [LinkedIn](https://www.linkedin.com/in/arnaud-messenet)
+
+<p align="center">
+  <a href="mailto:arnaud.messenet@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=Gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/arnaud-messenet">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Core Stack
 
-<p align="left">
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-  <!-- Frontend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+---
 
-  <!-- Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40"/>
+### 🚀 Also worked with
 
-  <!-- Database -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
-
-  <!-- Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
-
-</p>
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 
 ---
 
@@ -52,13 +57,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Crypoune&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Crypoune&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Crypoune&layout=compact&theme=tokyonight&cache_seconds=1800" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Crypoune&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Crypoune&layout=compact&langs_count=8&theme=algolia"/>
 </p>

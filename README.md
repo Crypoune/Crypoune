@@ -18,7 +18,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎓_Student-Developer-0A66C2?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/💻_Focus-Full_Stack-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/💻_Focus-Frontend-success?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/📍_Based_in-France-0055A4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/🗣️_French_&_English-4CAF50?style=for-the-badge"/>
 </p>
